@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://qq547176052.github.io/sitemap.xml
+Sitemap: https://doc.142536.vip/sitemap.xml
